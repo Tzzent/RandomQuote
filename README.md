@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tzzent.github.io/TodoApp/">
+    <a href="https://tzzent.github.io/RandomQuote">
       Demo
     </a>
   </h3>
