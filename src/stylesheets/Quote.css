@@ -1,0 +1,14 @@
+.container-quote {
+  max-width: 630px;
+  font-size: 36px;
+  color: black;
+  border-left: 8px solid #f7df94;
+  /* background-color: red; */
+  padding-left: 100px;
+}
+
+@media (max-width: 650px) {
+  .container-quote {
+    font-size: 20px;
+  }
+}

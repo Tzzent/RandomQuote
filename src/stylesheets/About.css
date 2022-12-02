@@ -1,0 +1,56 @@
+/* ------About-Author-------- */
+
+.about {
+  margin-left: 70px;
+  cursor: pointer;
+  padding: 30px 40px;
+  gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: 0.4s ease-in-out;
+  user-select: none;
+}
+
+.about .quote-owner {
+  line-height: 30px;
+  font-size: 24px;
+}
+
+.about .arrow-right {
+  color: white;
+  font-size: 30px;
+}
+
+.about span {
+  font-size: 14px;
+}
+
+.about:hover {
+  background-color: #4f4f4f;
+  color: white;
+}
+
+.not-visible {
+  display: none;
+}
+
+/* ------Button----- */
+
+@media (max-width: 650px) {
+  .about {
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 5px 2px rgb(0, 0, 0, 0.2);
+  }
+  .about .arrow-right {
+    animation: animationArrow;
+    animation-duration: 2s;
+  }
+
+  @keyframes animationArrow {
+    from {
+      transform: translate(-30px);
+    }
+  }
+}
