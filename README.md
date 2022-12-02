@@ -18,6 +18,9 @@
 <br> <br>
 📲 Mobile <br>
 
+[<img style="margin-right: 30px" src=foo.svg height=30>]([https://www.example.com/](https://user-images.githubusercontent.com/86677547/205208795-99123eb1-6d9c-494b-9247-e7dddedfeeb7.png))
+[<img style="margin-right: 30px" src=bar.svg height=30>]([https://www.example.com/](https://user-images.githubusercontent.com/86677547/205208795-99123eb1-6d9c-494b-9247-e7dddedfeeb7.png))
+
 ![image](https://user-images.githubusercontent.com/86677547/205208795-99123eb1-6d9c-494b-9247-e7dddedfeeb7.png)  ![image](https://user-images.githubusercontent.com/86677547/205208854-6906b8fa-e2fb-4def-9ff1-68d15565f0d3.png)
 
 ### Built With
