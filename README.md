@@ -17,11 +17,10 @@
 
 <br> <br>
 📲 Mobile <br>
-
+<div style="display:flex; justify-content:center;"> 
 ![image](https://user-images.githubusercontent.com/86677547/205208795-99123eb1-6d9c-494b-9247-e7dddedfeeb7.png)
-__
 ![image](https://user-images.githubusercontent.com/86677547/205208854-6906b8fa-e2fb-4def-9ff1-68d15565f0d3.png)
-
+</div>
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
